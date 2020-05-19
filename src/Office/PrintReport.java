@@ -1,7 +1,7 @@
 package Office;
 
 import java.util.*;
-class PrintReport{
+class PrintReport implements OutputReport{
 	public void output(List<ReportItem> items){
 		System.out.println("Output to printer");
 		for(ReportItem item : items){

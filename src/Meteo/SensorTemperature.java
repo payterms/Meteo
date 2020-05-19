@@ -1,5 +1,6 @@
 package Meteo;
 
+// Интерфейс нового датчика
 interface SensorTemperature{
 	int identifier(); // идентификатор датчика
 	double temperature(); // температура датчика
