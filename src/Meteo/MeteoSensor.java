@@ -1,3 +1,5 @@
+package Meteo;
+
 import java.time.*;
 
 public interface MeteoSensor{

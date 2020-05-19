@@ -1,3 +1,5 @@
+package Meteo;
+
 interface SensorTemperature{
 	int identifier(); // идентификатор датчика
 	double temperature(); // температура датчика

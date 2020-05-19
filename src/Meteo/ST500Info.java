@@ -1,3 +1,5 @@
+package Meteo;
+
 import java.time.*;
 
 class ST500Info{

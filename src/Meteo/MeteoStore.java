@@ -1,3 +1,5 @@
+package Meteo;
+
 class MeteoStore{
 	// сохранение данных в базу
 	boolean save(MeteoSensor meteoSensor){
